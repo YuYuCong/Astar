@@ -1,0 +1,692 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\RobotView.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG1 DIALOG DISCARDABLE  0, 0, 187, 190
+STYLE WS_CHILD
+FONT 10, "System"
+BEGIN
+    EDITTEXT        IDC_M0_0,0,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_1,7,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_2,14,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_3,21,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_4,28,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_5,35,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_6,42,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_7,49,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_8,56,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_9,63,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_10,70,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_11,77,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_12,84,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_13,91,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_14,98,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_15,105,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_16,112,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_17,119,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_18,126,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M0_19,133,0,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_0,0,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_1,7,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_2,14,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_3,21,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_4,28,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_5,35,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_6,42,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_7,49,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_8,56,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_9,63,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_10,70,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_11,77,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_12,84,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_13,91,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_14,98,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_15,105,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_16,112,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_17,119,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_18,126,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M1_19,133,11,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_0,0,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_1,7,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_2,14,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_3,21,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_4,28,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_5,35,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_6,42,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_7,49,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_8,56,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_9,63,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_10,70,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_11,77,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_12,84,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_13,91,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_14,98,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_15,105,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_16,112,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_17,119,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_18,126,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M2_19,133,21,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_0,0,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_1,7,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_2,14,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_3,21,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_4,28,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_5,35,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_6,42,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_7,49,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_8,56,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_9,63,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_10,70,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_11,77,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_12,84,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_13,91,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_14,98,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_15,105,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_16,112,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_17,119,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_18,126,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M3_19,133,32,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_0,0,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_1,7,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_2,14,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_3,21,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_4,28,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_5,35,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_6,42,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_7,49,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_8,56,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_9,63,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_10,70,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_11,77,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_12,84,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_13,91,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_14,98,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_15,105,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_16,112,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_17,119,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_18,126,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M4_19,133,43,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_0,0,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_1,7,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_2,14,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_3,21,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_4,28,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_5,35,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_6,42,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_7,49,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_8,56,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_9,63,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_10,70,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_11,77,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_12,84,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_13,91,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_14,98,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_15,105,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_16,112,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_17,119,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_18,126,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M5_19,133,54,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_0,0,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_1,7,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_2,14,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_3,21,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_4,28,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_5,35,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_6,42,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_7,49,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_8,56,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_9,63,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_10,70,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_11,77,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_12,84,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_13,91,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_14,98,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_15,105,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_16,112,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_17,119,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_18,126,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M6_19,133,65,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_0,0,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_1,7,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_2,14,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_3,21,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_4,28,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_5,35,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_6,42,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_7,49,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_8,56,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_9,63,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_10,70,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_11,77,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_12,84,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_13,91,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_14,98,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_15,105,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_16,112,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_17,119,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_18,126,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M7_19,133,76,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_0,0,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_1,7,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_2,14,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_3,21,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_4,28,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_5,35,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_6,42,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_7,49,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_8,56,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_9,63,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_10,70,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_11,77,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_12,84,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_13,91,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_14,98,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_15,105,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_16,112,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_17,119,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_18,126,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M8_19,133,87,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_0,0,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_1,7,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_2,14,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_3,21,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_4,28,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_5,35,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_6,42,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_7,49,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_8,56,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_9,63,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_10,70,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_11,77,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_12,84,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_13,91,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_14,98,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_15,105,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_16,112,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_17,119,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_18,126,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M9_19,133,98,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_0,0,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_1,7,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_2,14,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_3,21,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_4,28,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_5,35,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_6,42,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_7,49,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_8,56,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_9,63,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_10,70,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_11,77,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_12,84,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_13,91,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_14,98,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_15,105,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_16,112,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_17,119,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_18,126,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M10_19,133,109,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_0,0,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_1,7,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_2,14,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_3,21,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_4,28,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_5,35,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_6,42,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_7,49,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_8,56,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_9,63,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_10,70,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_11,77,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_12,84,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_13,91,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_14,98,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_15,105,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_16,112,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_17,119,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_18,126,120,8,12,ES_AUTOHSCROLL
+    EDITTEXT        IDC_M11_19,133,120,8,12,ES_AUTOHSCROLL
+END
+
+IDD_DIALOG2 DIALOG DISCARDABLE  0, 0, 187, 94
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "Dialog"
+FONT 10, "System"
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,130,52,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,130,73,50,14
+    LTEXT           "Please put in message",IDC_STATIC,7,7,76,8
+    LTEXT           "Height",IDC_STATIC,16,29,22,8
+    LTEXT           "Width",IDC_STATIC,16,59,20,8
+    EDITTEXT        IDC_HEIGHT,51,27,40,14,ES_AUTOHSCROLL
+    EDITTEXT        IDC_WIDTH,50,58,40,14,ES_AUTOHSCROLL
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DIALOG1, DIALOG
+    BEGIN
+        RIGHTMARGIN, 180
+        BOTTOMMARGIN, 141
+    END
+
+    IDD_DIALOG2, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 180
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 87
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\RobotView.ico"
+IDR_ROBOTVTYPE          ICON    DISCARDABLE     "res\\RobotViewDoc.ico"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDR_MAINFRAME           BITMAP  MOVEABLE PURE   "res\\Toolbar.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Toolbar
+//
+
+IDR_MAINFRAME TOOLBAR DISCARDABLE  16, 15
+BEGIN
+    BUTTON      ID_FILE_NEW
+    BUTTON      ID_FILE_OPEN
+    BUTTON      ID_FILE_SAVE
+    SEPARATOR
+    BUTTON      ID_EDIT_CUT
+    BUTTON      ID_EDIT_COPY
+    BUTTON      ID_EDIT_PASTE
+    SEPARATOR
+    BUTTON      ID_FILE_PRINT
+    SEPARATOR
+    BUTTON      ID_APP_ABOUT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MAINFRAME MENU PRELOAD DISCARDABLE 
+BEGIN
+    POPUP "&File"
+    BEGIN
+        MENUITEM "&New\tCtrl+N",                ID_FILE_NEW
+        MENUITEM "&Open...\tCtrl+O",            ID_FILE_OPEN
+        MENUITEM "&Save\tCtrl+S",               ID_FILE_SAVE
+        MENUITEM "Save &As...",                 ID_FILE_SAVE_AS
+        MENUITEM SEPARATOR
+        MENUITEM "Recent File",                 ID_FILE_MRU_FILE1, GRAYED
+        MENUITEM SEPARATOR
+        MENUITEM "E&xit",                       ID_APP_EXIT
+    END
+    POPUP "&Edit"
+    BEGIN
+        MENUITEM "&Undo\tCtrl+Z",               ID_EDIT_UNDO
+        MENUITEM SEPARATOR
+        MENUITEM "Cu&t\tCtrl+X",                ID_EDIT_CUT
+        MENUITEM "&Copy\tCtrl+C",               ID_EDIT_COPY
+        MENUITEM "&Paste\tCtrl+V",              ID_EDIT_PASTE
+        MENUITEM SEPARATOR
+        MENUITEM "&Begin\tF5",                  ID_BEGIN
+    END
+    POPUP "&View"
+    BEGIN
+        MENUITEM "&Toolbar",                    ID_VIEW_TOOLBAR
+        MENUITEM "&Status Bar",                 ID_VIEW_STATUS_BAR
+    END
+    POPUP "&Help"
+    BEGIN
+        MENUITEM "&About RobotView...",         ID_APP_ABOUT
+    END
+    POPUP "&Draw"
+    BEGIN
+        MENUITEM "&Block\tF2",                  ID_RECT
+        MENUITEM "&RobotPoint\tF3",             ID_ROBOT_POINT
+        MENUITEM "&GoalPoint\tF4",              ID_GOAL_POINT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Accelerator
+//
+
+IDR_MAINFRAME ACCELERATORS PRELOAD MOVEABLE PURE 
+BEGIN
+    "C",            ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    "N",            ID_FILE_NEW,            VIRTKEY, CONTROL, NOINVERT
+    "O",            ID_FILE_OPEN,           VIRTKEY, CONTROL, NOINVERT
+    "S",            ID_FILE_SAVE,           VIRTKEY, CONTROL, NOINVERT
+    "V",            ID_EDIT_PASTE,          VIRTKEY, CONTROL, NOINVERT
+    VK_BACK,        ID_EDIT_UNDO,           VIRTKEY, ALT, NOINVERT
+    VK_DELETE,      ID_EDIT_CUT,            VIRTKEY, SHIFT, NOINVERT
+    VK_F2,          ID_RECT,                VIRTKEY, NOINVERT
+    VK_F3,          ID_ROBOT_POINT,         VIRTKEY, NOINVERT
+    VK_F4,          ID_GOAL_POINT,          VIRTKEY, NOINVERT
+    VK_F5,          ID_BEGIN,               VIRTKEY, NOINVERT
+    VK_F6,          ID_NEXT_PANE,           VIRTKEY, NOINVERT
+    VK_F6,          ID_PREV_PANE,           VIRTKEY, SHIFT, NOINVERT
+    VK_INSERT,      ID_EDIT_COPY,           VIRTKEY, CONTROL, NOINVERT
+    VK_INSERT,      ID_EDIT_PASTE,          VIRTKEY, SHIFT, NOINVERT
+    "X",            ID_EDIT_CUT,            VIRTKEY, CONTROL, NOINVERT
+    "Z",            ID_EDIT_UNDO,           VIRTKEY, CONTROL, NOINVERT
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_ABOUTBOX DIALOG DISCARDABLE  0, 0, 235, 55
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "About RobotView"
+FONT 8, "MS Sans Serif"
+BEGIN
+    ICON            IDR_MAINFRAME,IDC_STATIC,11,17,20,20
+    LTEXT           "RobotView Version 1.0",IDC_STATIC,40,10,119,8,
+                    SS_NOPREFIX
+    LTEXT           "Copyright (C) 2006",IDC_STATIC,40,25,119,8
+    DEFPUSHBUTTON   "OK",IDOK,178,7,50,14,WS_GROUP
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 1,0,0,1
+ PRODUCTVERSION 1,0,0,1
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x1L
+#else
+ FILEFLAGS 0x0L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904B0"
+        BEGIN
+            VALUE "CompanyName", "\0"
+            VALUE "FileDescription", "RobotView MFC Application\0"
+            VALUE "FileVersion", "1, 0, 0, 1\0"
+            VALUE "InternalName", "RobotView\0"
+            VALUE "LegalCopyright", "Copyright (C) 2006\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "RobotView.EXE\0"
+            VALUE "ProductName", "RobotView Application\0"
+            VALUE "ProductVersion", "1, 0, 0, 1\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_ABOUTBOX, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 228
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 48
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// String Table
+//
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    IDR_MAINFRAME           "RobotView\n\nRobotV\n\n\nRobotView.Document\nRobotV Document"
+END
+
+STRINGTABLE PRELOAD DISCARDABLE 
+BEGIN
+    AFX_IDS_APP_TITLE       "RobotView"
+    AFX_IDS_IDLEMESSAGE     "Ready"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_INDICATOR_EXT        "EXT"
+    ID_INDICATOR_CAPS       "CAP"
+    ID_INDICATOR_NUM        "NUM"
+    ID_INDICATOR_SCRL       "SCRL"
+    ID_INDICATOR_OVR        "OVR"
+    ID_INDICATOR_REC        "REC"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_NEW             "Create a new document\nNew"
+    ID_FILE_OPEN            "Open an existing document\nOpen"
+    ID_FILE_CLOSE           "Close the active document\nClose"
+    ID_FILE_SAVE            "Save the active document\nSave"
+    ID_FILE_SAVE_AS         "Save the active document with a new name\nSave As"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_APP_ABOUT            "Display program information, version number and copyright\nAbout"
+    ID_APP_EXIT             "Quit the application; prompts to save documents\nExit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_FILE_MRU_FILE1       "Open this document"
+    ID_FILE_MRU_FILE2       "Open this document"
+    ID_FILE_MRU_FILE3       "Open this document"
+    ID_FILE_MRU_FILE4       "Open this document"
+    ID_FILE_MRU_FILE5       "Open this document"
+    ID_FILE_MRU_FILE6       "Open this document"
+    ID_FILE_MRU_FILE7       "Open this document"
+    ID_FILE_MRU_FILE8       "Open this document"
+    ID_FILE_MRU_FILE9       "Open this document"
+    ID_FILE_MRU_FILE10      "Open this document"
+    ID_FILE_MRU_FILE11      "Open this document"
+    ID_FILE_MRU_FILE12      "Open this document"
+    ID_FILE_MRU_FILE13      "Open this document"
+    ID_FILE_MRU_FILE14      "Open this document"
+    ID_FILE_MRU_FILE15      "Open this document"
+    ID_FILE_MRU_FILE16      "Open this document"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_NEXT_PANE            "Switch to the next window pane\nNext Pane"
+    ID_PREV_PANE            "Switch back to the previous window pane\nPrevious Pane"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_WINDOW_SPLIT         "Split the active window into panes\nSplit"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_EDIT_CLEAR           "Erase the selection\nErase"
+    ID_EDIT_CLEAR_ALL       "Erase everything\nErase All"
+    ID_EDIT_COPY            "Copy the selection and put it on the Clipboard\nCopy"
+    ID_EDIT_CUT             "Cut the selection and put it on the Clipboard\nCut"
+    ID_EDIT_FIND            "Find the specified text\nFind"
+    ID_EDIT_PASTE           "Insert Clipboard contents\nPaste"
+    ID_EDIT_REPEAT          "Repeat the last action\nRepeat"
+    ID_EDIT_REPLACE         "Replace specific text with different text\nReplace"
+    ID_EDIT_SELECT_ALL      "Select the entire document\nSelect All"
+    ID_EDIT_UNDO            "Undo the last action\nUndo"
+    ID_EDIT_REDO            "Redo the previously undone action\nRedo"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    ID_VIEW_TOOLBAR         "Show or hide the toolbar\nToggle ToolBar"
+    ID_VIEW_STATUS_BAR      "Show or hide the status bar\nToggle StatusBar"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCSIZE          "Change the window size"
+    AFX_IDS_SCMOVE          "Change the window position"
+    AFX_IDS_SCMINIMIZE      "Reduce the window to an icon"
+    AFX_IDS_SCMAXIMIZE      "Enlarge the window to full size"
+    AFX_IDS_SCNEXTWINDOW    "Switch to the next document window"
+    AFX_IDS_SCPREVWINDOW    "Switch to the previous document window"
+    AFX_IDS_SCCLOSE         "Close the active window and prompts to save the documents"
+END
+
+STRINGTABLE DISCARDABLE 
+BEGIN
+    AFX_IDS_SCRESTORE       "Restore the window to normal size"
+    AFX_IDS_SCTASKLIST      "Activate Task List"
+END
+
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\RobotView.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+

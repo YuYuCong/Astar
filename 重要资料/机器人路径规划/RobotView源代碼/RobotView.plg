@@ -1,0 +1,43 @@
+<html>
+<body>
+<pre>
+<h1>Build Log</h1>
+<h3>
+--------------------Configuration: RobotView - Win32 Debug--------------------
+</h3>
+<h3>Command Lines</h3>
+Creating temporary file "C:\DOCUME~1\ZHONGC~1\LOCALS~1\Temp\RSP120.tmp" with contents
+[
+/nologo /MDd /W3 /Gm /GX /ZI /Od /D "WIN32" /D "_DEBUG" /D "_WINDOWS" /D "_AFXDLL" /D "_MBCS" /Fp"Debug/RobotView.pch" /Yu"stdafx.h" /Fo"Debug/" /Fd"Debug/" /FD /GZ /c 
+"E:\大三下课件\MFC学习\RobotView\RobotViewView.cpp"
+]
+Creating command line "cl.exe @C:\DOCUME~1\ZHONGC~1\LOCALS~1\Temp\RSP120.tmp" 
+Creating temporary file "C:\DOCUME~1\ZHONGC~1\LOCALS~1\Temp\RSP121.tmp" with contents
+[
+/nologo /subsystem:windows /incremental:yes /pdb:"Debug/RobotView.pdb" /debug /machine:I386 /out:"Debug/RobotView.exe" /pdbtype:sept 
+".\Debug\BlockDlg.obj"
+".\Debug\BlockView.obj"
+".\Debug\MainFrm.obj"
+".\Debug\Pathplan.obj"
+".\Debug\RobotView.obj"
+".\Debug\RobotViewDoc.obj"
+".\Debug\RobotViewView.obj"
+".\Debug\Route.obj"
+".\Debug\StdAfx.obj"
+".\Debug\RobotView.res"
+]
+Creating command line "link.exe @C:\DOCUME~1\ZHONGC~1\LOCALS~1\Temp\RSP121.tmp"
+<h3>Output Window</h3>
+Compiling...
+RobotViewView.cpp
+E:\大三下课件\MFC学习\RobotView\RobotViewView.cpp(115) : warning C4805: '==' : unsafe mix of type 'int' and type 'const bool' in operation
+E:\大三下课件\MFC学习\RobotView\RobotViewView.cpp(115) : warning C4553: '==' : operator has no effect; did you intend '='?
+Linking...
+
+
+
+<h3>Results</h3>
+RobotView.exe - 0 error(s), 2 warning(s)
+</pre>
+</body>
+</html>
